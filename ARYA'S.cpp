@@ -11,8 +11,6 @@
     int hike;
     hike= C_sal-P_sal;
     cout<<"hike="<<hike;
-    int hk1;
-    hk1 = (hike/P_sal)*100;
-    cout<<"hk1="<<hk1;
+   
     return 0;
 }
